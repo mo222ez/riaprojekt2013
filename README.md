@@ -1,6 +1,6 @@
 riamall2013
 ===========
 
-Detta är ett mallrepositorium för projektet i [RIA-kursen 2013](https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/). Forka detta och använd som grund i din applikation!
+Repositorium för projektet i [RIA-kursen 2013](https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/). 
 
-Mallen innehåller inga övriga filer alls, utan är bara ett sätt för kursledningen att enkelt hålla koll på er. :)
+Applikationen nås via http://mo222ez.github.io/riaprojekt2013/
