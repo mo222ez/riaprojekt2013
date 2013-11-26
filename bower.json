@@ -1,0 +1,12 @@
+{
+	"name": "Backbone RequireJS Hello World",
+	"version": "1.0.0",
+	"dependencies": {
+		"jquery": null,
+		"backbone-amd": null,
+		"underscore-amd": null,
+		"requirejs": null,
+		"backbone.localStorage": null,
+		"backbone-relational": null
+	}
+}
