@@ -19,6 +19,8 @@ require.config({
 	}
 });
 
-require(["views/appview"], function (AppView) {
-	new AppView;
+require(["backbone", "views/router"], function (Backbone, Router) {
+	//new AppView;
+	var router = new Router();
+	Backbone.history.start();
 });

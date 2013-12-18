@@ -1,6 +1,6 @@
 define(["underscore", "handlebars", "text!templates/test.html", "backbone","localStorage", "backboneRelational"], function (_, Handlebars, TestTemplate, Backbone) {
 	var AppView = Backbone.View.extend({
-		el: "#greeting",
+		el: "#content",
 		template: Handlebars.compile(TestTemplate),
 
 		initialize: function () {
