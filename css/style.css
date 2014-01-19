@@ -1,0 +1,38 @@
+body {
+	//background-color: red;
+}
+
+#wrapper {
+	position: relative;
+	width: 500px;
+	height: 502+px;
+	margin: 0 auto;
+	top: 50px;
+	overflow: hidden;
+}
+
+#todoList {
+	height: 450px;
+	overflow: scroll;
+	position: relative;
+	display: block;
+}
+
+#todoList ul li {
+	overflow: hidden;
+}
+
+#newTodo {
+	height: 55px;
+	padding: 5px;
+}
+
+.todoName {
+	word-wrap: break-word;
+	width: 365px;
+	float: left;
+}
+
+.editButtons {
+	width: 75px;
+}
